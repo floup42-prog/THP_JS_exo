@@ -1,4 +1,4 @@
-console.log("Fonctionnalité 1 :");
+console.log("Fonctionnalité 1 : clique sur le footer");
 
 
 let i = 0;
@@ -8,7 +8,7 @@ function myFunction() {
     };
 
 
-console.log("Fonctionnalité 2 :");
+console.log("Fonctionnalité 2 : clique sur le menue hamburger");
 
 
 function myFunction_toggle() {
@@ -17,7 +17,7 @@ function myFunction_toggle() {
   };
 
 
-console.log("Fonctionnalité 3 :");
+console.log("Fonctionnalité 3 : clique sur le edit de la 1er card");
 
 
 function myFunction_red() {
@@ -26,7 +26,7 @@ function myFunction_red() {
 };
 
 
-console.log("Fonctionnalité 4 :");
+console.log("Fonctionnalité 4 : clique sur le edit de la 2éme card");
 
 
 function myFunction_green() {
@@ -40,22 +40,13 @@ function myFunction_green() {
 };
 
 
-// console.log("Fonctionnalité 5 :");
+console.log("Fonctionnalité 5 : double clique sue la navbar");
 
 
-// function myFunction_nav(){
-//   var cdn = document.getElementsByTagName("link");
-//   cdn.classList.remove("bg-success");
-// }
-// function myFunction_nav(link {
-//   pointer-events:none;
-// })
-
-// function myFunction_nav(e){
-//   var cdn = document.getElementsByTagName("link");
-//   e.preventDefault(cdn);
-  
-// };
+function myFunction_nav() {
+  var x = document.getElementById("mySelect");
+  x.remove()
+}
 
 // console.log("Fonctionnalité 6 :");
 
@@ -67,4 +58,3 @@ function myFunction_green() {
 
 
 // console.log("Fonctionnalité 9 :");
-
