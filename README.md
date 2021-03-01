@@ -16,4 +16,5 @@ Aujourd'hui on va modifer otre page HTML avec .js ououououuou ... TT
 
 - *Fonctionnalité 5 : double clique sue la navbar*
 
-et plien d'autre que je n'est pas ahahahhahah ```*```buit de la corde qui ce balance```*```
+
+et plein d'autre que je n'est pas fais ahahahhahah  * buit de la corde qui ce balance *
